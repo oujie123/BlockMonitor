@@ -15,7 +15,7 @@ import java.io.InputStream;
  * @Author: JackOu
  * @CreateDate: 2021/10/25 20:38
  */
-class BitmapLoadTool {
+public class BitmapLoadTool {
 
     //======================从本地（SDcard）文件读取=======================
 

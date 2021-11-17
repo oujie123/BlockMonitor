@@ -2,3 +2,5 @@ rootProject.name = "BlockMonitor"
 include ':app'
 include ':blockmonitor'
 include ':mylibrary'
+include ':network'
+include ':gxanetwork'
